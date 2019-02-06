@@ -1,0 +1,2 @@
+multiply function 
+XxY
